@@ -25,7 +25,7 @@ Boostrap kütüphanesi içindeki bazı araçlar az da olsa Javascript bilgisi ge
 
 <h1> Bootstrap Nedir </h1>
 
-<p> resmi web sitesi <a href="www.getbootsrap.com" target="_blank">getbootsrap.com</a> dır.<br>
+<p> resmi web sitesi <a href="https://getbootstrap.com/" target="_blank">getbootsrap.com</a> dır.<br>
   Bootsrap css ve js kütüphanesidir. <br>
   Belli css sınıfları oluşturulmuştur. Bu sınıfları kullanarak daha hızlı kod yazmamıza yardımcı olacak.<br>
   class ismi kullanarak bu css sınıfını bootsrap kütüpanesi ile etkin hale getirebiliriz.<br></p>
