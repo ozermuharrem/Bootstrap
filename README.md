@@ -38,4 +38,32 @@ Boostrap kütüphanesi içindeki bazı araçlar az da olsa Javascript bilgisi ge
     <li>Bootstrap kütüphanesini kullanabilmek için kütüphane içerisinde buluna css ve js kütüphanelerini html sayfasına ekliyoruz </li>
   <li> getbootstrap.com sitesine gidip css kütüphanesini kopyalayıp html sayfasında ki head etiketi içerisine yapıştırıyoruz. </li>
   <li> js kütüphane linkini <strong>body</strong> etiketinin bitiş tagının üzerine yapıştırıyoruz.</li>
+  
+  <hr> 
+  <br><br><br>
+  <h2>HEADING & TEXT </h2>
+  
+  <p>h1 den h6 ya kadar bootsrap kütüphanesini başlık etiketlerine vermiş olduğu kendine has özellikleri vardır.</p>
+  
+  ![image](https://user-images.githubusercontent.com/86782430/153955760-af95fbf9-18c0-44c2-a0d1-b7b46f0651ad.png) 
+  
+  <p> Çıktı </p> 
+  
+  ![image](https://user-images.githubusercontent.com/86782430/153955922-87c65306-e07a-4c45-b16d-ba8a77111750.png)
+
+
+
+  <p>Diğer etiketler örnegin "p" etiketini class'ına h2 eklersek h2 bootsrap ın tasarladığı h2 görüntüsünde olacaktır.</p> 
+  
+  ![image](https://user-images.githubusercontent.com/86782430/153956050-e0080e63-1e03-47ed-9416-dcf5da252a99.png)
+  
+  <p> Çıktı </p> 
+  
+   ![image](https://user-images.githubusercontent.com/86782430/153955922-87c65306-e07a-4c45-b16d-ba8a77111750.png)
+  
+  
+  
+
+  
+  
 
