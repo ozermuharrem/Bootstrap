@@ -89,8 +89,8 @@ Boostrap kütüphanesi içindeki bazı araçlar az da olsa Javascript bilgisi ge
   
   ![image](https://user-images.githubusercontent.com/86782430/153957631-18913fbe-d1b2-4b10-b7d9-949557a4ac75.png) 
   
-  <p>text-lowercase = küçük yazılar büyür</p>
-  <p>text-uppercase = büyük yazılar küçülür</p>
+  <p>text-lowercase = büyük yazılar küçültür</p>
+  <p>text-uppercase = küçük yazılar büyütür</p>
   <p>text-capitalized = yazıların ilk harfleri büyür</p>
   
   ![image](https://user-images.githubusercontent.com/86782430/153957992-1d45487a-e846-49ad-b77d-92946bd19b49.png)
