@@ -126,7 +126,7 @@ Boostrap kütüphanesi içindeki bazı araçlar az da olsa Javascript bilgisi ge
   
   ![image](https://user-images.githubusercontent.com/86782430/153959575-df4e4a11-bed2-4d71-bbfd-26437d6c0996.png) 
   
-   <p><bold> Çıktı</bold></p> 
+   <p><bold> Çıktı </bold></p> 
   
   ![image](https://user-images.githubusercontent.com/86782430/153959744-adbbce6e-b47d-459c-86f9-178b9d6afeb3.png)
 
