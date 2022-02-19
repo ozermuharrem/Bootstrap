@@ -61,7 +61,9 @@ Boostrap kütüphanesi içindeki bazı araçlar az da olsa Javascript bilgisi ge
   
    ![image](https://user-images.githubusercontent.com/86782430/153955922-87c65306-e07a-4c45-b16d-ba8a77111750.png) 
   
-  <p> text-muted </p>
+  ```shell
+  text-muted
+  ```
   
   ![image](https://user-images.githubusercontent.com/86782430/153956684-7be8911f-e359-4d5c-8aac-0145a81d92f3.png)
 
