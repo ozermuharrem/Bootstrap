@@ -201,6 +201,8 @@ Boostrap kütüphanesi içindeki bazı araçlar az da olsa Javascript bilgisi ge
   Çıktı 
   
   ![image](https://user-images.githubusercontent.com/86782430/153962338-da95a64b-96e8-4d04-b588-c3fd6d9b8b91.png)
+  
+  <p></p>
 
 
 
