@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/86782430/155860908-9828814f-88d8-4835-9019-fb87af06cd16.png)
 
-<p>bordere dört kçşesinden yuvarlatma yanı radius ekleyebilmek için "rounded" eklememiz gerekir.</p>
+<p>bordere dört köşesinden yuvarlatma yanı radius ekleyebilmek için "rounded" eklememiz gerekir.</p>
 <p>dört köşeden değil de istediğimiz köşlere radius eklemek için rounded-top -> üstteki köşelerde yuvarlatma , rounded-bottom -> alttaki köşelerde yuvarlatma yapar</p>
 
 ![image](https://user-images.githubusercontent.com/86782430/155861023-d4c40038-4a6e-4a17-9d2e-11e1242d2e37.png)
