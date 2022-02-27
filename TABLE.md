@@ -40,7 +40,7 @@
 
 <p> Çıktı</p>
 
-![image](https://user-images.githubusercontent.com/86782430/155863186-6b79270b-9627-4631-8033-6e43b5d3b775.png)
+![image](https://user-images.githubusercontent.com/86782430/155863281-6644f910-459f-475e-9191-071fac5b1e68.png)
 
 ![image](https://user-images.githubusercontent.com/86782430/155863179-4e106184-1cc8-41a8-9965-cf74afaad807.png)
 
