@@ -67,3 +67,5 @@
   <p> Çıktı</p>
   
   ![image](https://user-images.githubusercontent.com/86782430/153958529-1e71fd7f-5fb7-42ce-9d9a-bc97161dceb5.png) 
+  
+  
