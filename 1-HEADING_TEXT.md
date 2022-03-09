@@ -58,14 +58,24 @@
   
   ![image](https://user-images.githubusercontent.com/86782430/153958116-63e49d43-0511-4e39-898a-2c235cc801f6.png) 
   
-  <p>font-weight-bold = kaılın yazı sitili</p>
-  <p>font-weight-normal = normal yazı sitili</p>
-  <p>font-weight-light = layt yazı sitili</p>
-  <p>font-italic = italik yazı sitili</p>
+  <h3>Bootsrap v5.1 ile Yeni Özellikler</h3>
   
-  ![image](https://user-images.githubusercontent.com/86782430/153958417-ece63cba-098c-4621-a0c2-a6e41e1f3e01.png)
+  <p>fw-bold = kalın yazı sitili</p> <p> -bold yazı tipinin font-weigth= 700 olarak atanır </p>
+  <p>fw-bolder = daha kalın yazı sitili</p> <p>-bold ve bolder arasında ki fark bolder ın parent eleman olması dır bir üstteki etiketin özelliğine göre değişir font-weigth değişiklik gösterecektir.</p>
+  <p>fwn-normal = normal yazı sitili</p>
+  <p>fw-light = layt yazı sitili</p>
+  <p>fw-lighter = daha açık layt yazı sitili</p>
+  <p>fst-italic = italik yazı sitili</p>
+  
+  ![image](https://user-images.githubusercontent.com/86782430/157522896-bc9b3bfe-2e7d-467a-aced-d80c52013dc5.png)
   <p> Çıktı</p>
   
-  ![image](https://user-images.githubusercontent.com/86782430/153958529-1e71fd7f-5fb7-42ce-9d9a-bc97161dceb5.png) 
+  ![image](https://user-images.githubusercontent.com/86782430/157523063-144e817b-8523-41e3-a8f5-7f85f0f8dd12.png)
   
+  <p> Font-Size değerini de 1 den 6 ya kadar değer atayabiliyoruz </p> 
   
+  ![image](https://user-images.githubusercontent.com/86782430/157523453-3124665c-2abc-4801-b681-ea9897102bb2.png)
+
+  Çıktı 
+
+  ![image](https://user-images.githubusercontent.com/86782430/157523527-89ddf574-9696-45b9-a922-01538fc9fdbf.png)
